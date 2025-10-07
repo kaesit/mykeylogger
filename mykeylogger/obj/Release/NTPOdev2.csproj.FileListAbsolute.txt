@@ -1,0 +1,7 @@
+C:\Users\PC\Downloads\Key-Logger-With-Email-master\Key-Logger-With-Email-master\mykeylogger01\bin\Release\mykeylogger01.exe.config
+C:\Users\PC\Downloads\Key-Logger-With-Email-master\Key-Logger-With-Email-master\mykeylogger01\bin\Release\mykeylogger01.exe
+C:\Users\PC\Downloads\Key-Logger-With-Email-master\Key-Logger-With-Email-master\mykeylogger01\bin\Release\mykeylogger01.pdb
+C:\Users\PC\Downloads\Key-Logger-With-Email-master\Key-Logger-With-Email-master\mykeylogger01\obj\Release\NTPOdev2.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Key-Logger-With-Email-master\Key-Logger-With-Email-master\mykeylogger01\obj\Release\NTPOdev2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Key-Logger-With-Email-master\Key-Logger-With-Email-master\mykeylogger01\obj\Release\mykeylogger01.exe
+C:\Users\PC\Downloads\Key-Logger-With-Email-master\Key-Logger-With-Email-master\mykeylogger01\obj\Release\mykeylogger01.pdb
